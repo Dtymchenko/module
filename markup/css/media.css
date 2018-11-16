@@ -1,0 +1,120 @@
+@media screen and (max-width: 1023px) {
+	
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+	.header {
+	min-height: 200px;
+}
+.slogan {
+	font-size: 40px;
+	margin: 30px;
+	margin-bottom: 0px;
+}
+
+
+.btns-top {
+	padding: 5px;
+	color: white;
+	border: 1px solid black;
+	border-radius: 1px;
+	margin: 20px;
+	margin-top: 20px;
+}
+
+
+.logo {
+	padding: 10px;
+	padding-left: 200px;
+}
+
+.middle-box {
+	padding: 0;
+}
+
+.menu-opener {
+	padding: 10px;
+	padding-left: 200px;
+	}
+
+	.design {
+		display: inline-block;
+		margin: 40px;
+		padding: 0;
+	}
+
+	.design-art {
+	display: inline-block;
+	position: relative;
+	width: 49%;
+	padding-bottom: 15px;
+}
+
+
+.design-zagolovki {
+	padding: 20px;
+	padding-top: 25px;
+}
+
+.our {
+	margin: 10px;
+	margin-bottom: 0px;
+	color: black;
+}
+
+.txt-ourworks {
+	text-align: center;
+	padding: 0px;
+}
+
+.img-ourworks {
+	display: inline-block;
+	width: 45%;
+	padding-left: 50px;
+	max-height: 100px;
+	margin: 10px;
+}
+
+.shwmr {
+	padding: 10px;
+}
+
+.subscribe {
+	max-height: 50px;
+	min-height: 10px;
+}
+
+.form-subscribe {
+	padding: 50px 0;
+	padding-top: 10px;
+}
+
+.review {
+	text-align: center;
+	padding: 0;
+	color: #fff;
+}
+
+.team {
+	display: inline-block;
+	padding: 0;
+}
+
+.team-art {
+	display: inline-block;
+	width: 45%;
+	padding-left: 5px;
+}
+
+.img-team {
+	max-height: 100px;
+}
+
+.team-txt {
+	padding-bottom: 15px;
+}
+
+}
